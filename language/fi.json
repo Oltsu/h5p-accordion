@@ -18,8 +18,8 @@
       }
     },
     {
-      "label":"H tags for labels (does not affect the size of the label)",
-      "description":"The h tag used on the labels. Normally H2 but if this belongs under an H2 heading use H3. Does not affect the size of the labels, only used for semantical purposes.",
+      "label":"Otsikkotaso, jota käytetään otsikoissa (ei vaikuta otsikon pikselikokoon).",
+      "description":"Otsikkotaso, jota käytetään paneeleiden otsikoissa. Tämä on normaalisti Otsikko 2 (H2), mutta jos tämä tehtävä on jo otsikoitu Otsikko 2:lla, käytä Otsikkoa 3. Tämä valinta ei vaikuta otsikon pikselikokoon, mutta käytetään ainoastaan semantiikan selventämiseksi.",
       "options":[
         {
           "label":"H2"
